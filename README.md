@@ -1,1 +1,1 @@
-# mikellanerako naiz eta editatzea erabaki dut mikellanerako3ren README
+### mikellanerako3 naiz eta 17:23an editatu dut hau
